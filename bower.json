@@ -1,0 +1,15 @@
+{
+  "name": "my",
+  "version": "0.0.0",
+  "authors": [
+    "Eduardo Matos"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dojo": "~1.9.2"
+  },
+  "devDependencies": {
+    "util": "dojo-util#~1.9.2"
+  }
+}
