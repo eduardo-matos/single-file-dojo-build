@@ -7,6 +7,6 @@ Primeiro instale as dependências usando o Bower:
 
 Em seguida rode o comando abaixo para gerar o build (Linux/Mac):
 
-    ./bower_modules/util/buildscripts/build -p my.profile.js -r
+    ./bower_components/util/buildscripts/build -p my.profile.js -r
 
 Se estiver usando Windows, rode o comando acima trocando as barras por barras invertidas.
